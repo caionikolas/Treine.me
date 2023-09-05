@@ -1,9 +1,9 @@
 <h1 align="center">
-  ## Treine.me
+  Treine.me
 </h1>
 
 <p align="center">
-  <img src="" width="100%" />
+  <img src=".github/workout.jpg" width="100%" />
 </p>
 
 ## 💻 Projeto
